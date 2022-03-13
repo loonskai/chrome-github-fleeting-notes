@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "chrome-github-fleeting-notes",
+    "description": "Chrome extension for uploading fleeting notes to Github",
+    "version": "0.0.1",
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": ["identity","storage"]
+}
